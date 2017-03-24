@@ -1,0 +1,10 @@
+[
+{"name": ["\u534e\u8bed\u7537\u6b4c\u624b"], "path": ["/artist/chinese-male.html"]},
+{"name": ["\u534e\u8bed\u5973\u6b4c\u624b"], "path": ["/artist/chinese-female.html"]},
+{"name": ["\u534e\u8bed\u4e50\u961f\u7ec4\u5408"], "path": ["/artist/chinese-group.html"]},
+{"name": ["\u6b27\u7f8e\u7537\u6b4c\u624b"], "path": ["/artist/western-male.html"]},
+{"name": ["\u6b27\u7f8e\u5973\u6b4c\u624b"], "path": ["/artist/western-female.html"]},
+{"name": ["\u6b27\u7f8e\u4e50\u961f\u7ec4\u5408"], "path": ["/artist/western-group.html"]},
+{"name": ["\u97e9\u56fd\u6b4c\u624b"], "path": ["/artist/korea.html"]},
+{"name": ["\u65e5\u672c\u6b4c\u624b"], "path": ["/artist/japan.html"]}
+]

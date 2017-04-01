@@ -30,6 +30,11 @@
 
 ## 部署（Deploy）
 
+### requirement
+
+- Python 3.6.0 or above
+- scrapy 1.3.3 or above
+
 ### 安装scrapy
 
 ```shell
